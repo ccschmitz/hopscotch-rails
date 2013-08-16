@@ -26,7 +26,7 @@ In `app/assets/application.css`:
 
 In `app/assets/application.css`:
 
-	//= require hopscotch
+	*= require hopscotch
 
 ## Contributing
 
