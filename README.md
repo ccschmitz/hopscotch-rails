@@ -1,6 +1,6 @@
 # Hopscotch::Rails
 
-TODO: Write a gem description
+[Hopscotch](http://linkedin.github.io/hopscotch/) is a framework for making product tours on web pages. This gem makes it easy to include the framework into a Rails app.
 
 ## Installation
 
