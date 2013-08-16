@@ -20,11 +20,11 @@ Or install it yourself as:
 
 Require the assets:
 
-In `app/assets/application.css`, add the following line:
+In `app/assets/application.css`:
 
 	//= require hopscotch
 
-In `app/assets/application.css`, add the following line:
+In `app/assets/application.css`:
 
 	//= require hopscotch
 
