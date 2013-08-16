@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Require the assets:
+
+In `app/assets/application.css`, add the following line:
+
+	//= require hopscotch
+
+In `app/assets/application.css`, add the following line:
+
+	//= require hopscotch
 
 ## Contributing
 
